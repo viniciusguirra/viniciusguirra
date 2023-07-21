@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="mario_animation.gif" alt="Animação do Super Mario" width="500px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDTXDA_Tkqge3FhhBTKZany0vp74aBCN85JZ6SfqxVDzixnEFgz_xIaO2Zqo4MDC3y-A&usqp=CAUx">
 </div>
 
-# Olá, eu sou [Vinícius Guirra]
+# Olá, eu sou Vinícius Guirra
 
 Graduado em Ciências Econômicas e estudante de Análise de Dados na SoulCode Academy, estou comprometido em utilizar minha experiência em Recursos Humanos e Atração de Talentos, juntamente com minhas habilidades em análise de dados, para contribuir com o crescimento de uma organização.
 
