@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1DmPf8-c0V4a-AHefDkS8IwuQ9oQGR-_54WPNjTqMbBDyFpHLFI5yGjDpK5p3Tzg0oc&usqp=CAU">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1DmPf8-c0V4a-AHefDkS8IwuQ9oQGR-_54WPNjTqMbBDyFpHLFI5yGjDpK5p3Tzg0oc&usqp=CAU"500px">
 </div>
 
 # Olá, eu sou Vinícius Guirra
