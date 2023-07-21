@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" alt="Animação do Super Mario" width="480" height="343">
-</div>
 
 
 # Olá, eu sou Vinícius Guirra
