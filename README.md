@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" alt="Animação do Super Mario" width="500px">
+  <img src="<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>" alt="Animação do Super Mario" width="500px">
 </div>
+
 
 # Olá, eu sou Vinícius Guirra
 
