@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1DmPf8-c0V4a-AHefDkS8IwuQ9oQGR-_54WPNjTqMbBDyFpHLFI5yGjDpK5p3Tzg0oc&usqp=CAU"500px">
+  <img src="<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>">
 </div>
 
 # Olá, eu sou Vinícius Guirra
