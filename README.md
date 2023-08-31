@@ -7,7 +7,7 @@ Graduado em Ciências Econômicas e estudante de Análise de Dados na SoulCode A
 ## Perfil
 
 - Graduado em Ciências Econômicas com paixão pelo RH e sua missão de contribuir com a organização e colaboradores.
-- Estudante de Análise de Dados na SoulCode Academy, focado em técnicas de coleta, limpeza, análise e visualização de dados.
+- Graduado em Análise de Dados na SoulCode Academy, focado em técnicas de coleta, limpeza, análise e visualização de dados.
 - Experiência de mais de 2 anos em Recursos Humanos e Atração de Talentos, com expertise em recrutamento, seleção e People Analytics.
 - Habilidades técnicas em Python, SQL, Power BI, Excel, Metabase e Tableau.
 - Soft skills: liderança, adaptabilidade, relacionamento interpessoal, trabalho em equipe, visão sistêmica, comunicação, multidisciplinaridade, assertividade e inteligência emocional.
