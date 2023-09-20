@@ -16,6 +16,7 @@ Graduado em Ciências Econômicas e estudante de Análise de Dados na SoulCode A
 - ## Contato
 
 - LinkedIn: (https://www.linkedin.com/in/vinicius-guirra-oliveira-bb7894169/)
+- Portifólio: (https://sites.google.com/view/portifliovinciusguirra)
 - E-mail: viguirra@gmail.com
 - Telefone: (74) 99157-7266
 
