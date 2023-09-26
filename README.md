@@ -2,7 +2,7 @@
 
 # Olá, eu sou Vinícius Guirra
 
-Graduado em Ciências Econômicas e estudante de Análise de Dados na SoulCode Academy, estou comprometido em utilizar minha experiência em Recursos Humanos e Atração de Talentos, juntamente com minhas habilidades em análise de dados, para contribuir com o crescimento de uma organização.
+Graduado em Ciências Econômicas certificado em Análise de Dados pela SoulCode Academy, estou comprometido em utilizar minha experiência em Recursos Humanos e Atração de Talentos, juntamente com minhas habilidades em análise de dados, para contribuir com o crescimento de uma organização.
 
 ## Perfil
 
